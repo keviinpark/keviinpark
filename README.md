@@ -1,5 +1,7 @@
-<h1 align="center">Hey 👋, I'm Kevin!</h1>
+<h1 align="center">Hey 👋, I'm Kevin.</h1>
 <h3 align="center">I'm a 4th year Computing Science undergraduate at Simon Fraser University.</h3>
+<h3 align="center">I like tech and cars.</h3>
+<h3 align="center">Feel free to check out my projects!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
