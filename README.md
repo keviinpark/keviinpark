@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm Kevin.</h1>
 <h3 align="center">I'm a 4th year Computing Science undergraduate student at Simon Fraser University.</h3>
 <h3 align="center">I like tech and cars.</h3>
+<h3 align="center">I am looking to...develop a machine learning model to generate social signals and make good use of my new BeagleBone to solve a real-world problem!</h3>
 <h3 align="center">Feel free to check out my projects!</h3>
 
 <h3 align="left">Connect with me:</h3>
